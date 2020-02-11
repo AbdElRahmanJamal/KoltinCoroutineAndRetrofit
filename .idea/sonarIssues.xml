@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android10/app/src/main/java/com/android10/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android10/app/src/main/java/com/android10/Preferences.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/APIsStatus.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/App.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/AppExceptions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/Preferences.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/HomePageDataStore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/HomePageDataStore.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/HomePageRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/MarvelHomeRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Comics.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Data.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Events.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Items.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/MarvelCharacters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Results.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Series.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Stories.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Thumbnail.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/entities/Urls.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/presenration/HomePage.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/presenration/HomePageViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/home/presenration/HomePageViewModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/network/APIS.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/network/ApiFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/network/NetworkHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/network/interceptor/ConnectivityInterceptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/m/koltincoroutineandretrofit/network/interceptor/MarvelApiKeysInterceptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/home_page_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/marvel_home_ticket.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Mockito/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Mockito/app/src/main/java/com/m/mockito/repoviewmodel/ToDoViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Mockito/app/src/test/java/com/m/mockito/viewmodel/MainCorotinesRule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Mockito/app/src/test/java/com/m/mockito/viewmodel/MainCoroutineRule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Mockito/app/src/test/java/com/m/mockito/viewmodel/TestViewModelToDo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/AndroidGame/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/GameAndroid/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/GameAndroid/app/src/main/java/com/m/gameandroid/splash/SplashPage.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/GameAndroid/app/src/main/java/com/m/gameandroid/splash/SplashPageViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/GameAndroid/app/src/main/res/layout/splash_page_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/GameAndroid/app/src/main/res/navigation/game_controller.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/MarvelAppCoroutines/app/src/main/java/com/marvelapp/coroutines/marvelhome/presentation/MarvelHomePageViewModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/build/tmp/kapt3/stubs/stubFlavorDebug/hu/vodafone/apps/myvodafone/roaming/presenter/RoamingPresenterComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/build/tmp/kapt3/stubs/stubFlavorDebug/hu/vodafone/apps/myvodafone/roaming/view/RoamingFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/build/tmp/kapt3/stubs/stubFlavorDebug/hu/vodafone/apps/myvodafone/roaming/view/RoamingListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/addons/purchasedata/model/business/prepaid/PrepaidNetOffersDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/addons/purchasedata/model/business/prepaid/PrepaidNetOffersDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/base/AbstractFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/model/source/repository/UserDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/productsandservice/ProductsAndServicesContract.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/productsandservice/model/view/GetServiceDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/productsandservice/model/view/Section.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/productsandservice/model/view/ServicesModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/productsandservice/presenter/ProductsAndServicesPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/productsandservice/view/ProductsAndServicesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/RoamingContractor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/RoamingService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/presenter/RoaminPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/presenter/RoamingComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/presenter/RoamingModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/presenter/RoamingPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/presenter/RoamingPresenterComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/presenter/RoamingPresenterModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/service/RoamingService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/usecase/GetRoamingList.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/view/RoamingContractor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/view/RoamingFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/java/hu/vodafone/apps/myvodafone/roaming/view/RoamingListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/res/layout/fragment_contract_renewal.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/res/layout/fragment_nba_no_offers.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/res/layout/fragment_products_and_services.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/res/layout/fragment_purchase_data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/res/layout/fragment_roaming.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/res/layout/roaming_list_single_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/VFHU-Android/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
